@@ -1,6 +1,6 @@
 # ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)Hi! I'm Reginald
 
-### 👨‍💻 Introdution
+### 👨‍💻 Introduction
 
 I'm a Senior Frontend Developer with expertise in Angular and React. Passionate about learning and innovation, I constantly explore the latest technologies to enhance web experiences. With a strong foundation in frontend development, I combine my skills in Angular and React to create dynamic and user-friendly applications. Committed to continuous learning, I strive to stay updated with industry trends to deliver cutting-edge solutions.
 
